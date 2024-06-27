@@ -1,3 +1,3 @@
 # internship-demo
 this is my first git repository.
-author-Lalithya
+Author-Lalithya
