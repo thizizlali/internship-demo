@@ -1,4 +1,4 @@
 # internship-demo
 this is my first git repository.
 <br>
-Author-Lalithya
+Author-Lalithya.s
